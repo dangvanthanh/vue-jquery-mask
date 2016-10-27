@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import mask from '../directives/v-mask'
+import mask from '../directives/vue-mask'
 
 export default {
   directives: { mask }
